@@ -1,0 +1,23 @@
+Continuos -> C
+
+ Cdev -> Ctest -> Cintegration -> Cdeployment -> Cmonitor 
+
+WaterFall -> Dev + Test + Deployment + Monitoring 
+
+Agile ->  Cdev -> Ctest -> Cintegration + Deployment + Monitoring 
+
+DevOps is a cultural change , for Dev and Ops to deliver using this methodology
+
+DEVOPS TOOLS 				Git  , SVN , TFS ,  Perforce
+BUILD TOOLS				Maven , Ant , Gradle
+CONTINUOUS INTEGRATION TOOLS		Jenkins, Bamboo , Hudson
+CONTINUOUS TESTING TOOL			Selenium , Junit , TestNG
+CONTENIZATION TOOL 			Docker , Rkt
+CONFIGURATION MANAGEMENT TOOL 		Puppet , Ansible , Chef , Salt Stak 
+CONTINUOUS MONITORING TOOL		Splunk , ELK , Nagios
+	
+
+ What is Continuous Developement & Continuous Integration ?
+Continuous Delivery -> Manual approval in required 
+Continuous Deployment -> after CI deployed to different env 
+
